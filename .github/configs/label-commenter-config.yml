@@ -11,7 +11,7 @@ labels:
 
           > 如果您的站点信息发生了变动，请直接修改这个 issue 的内容。
 
-  - name: 'suspend'
+  - name: 'pending'
     labeled:
       issue:
         body: |
