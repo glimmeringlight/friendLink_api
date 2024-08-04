@@ -1,0 +1,79 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "慕雪的寒舍",
+      "url": "https://blog.musnow.top/",
+      "avatar": "https://blog.musnow.top/favicon.jpg",
+      "screenshot": "https://blog.musnow.top/page_sc.png",
+      "description": "爱折腾的代码初学者"
+    },
+    {
+      "title": "一蓑烟雨的博客",
+      "url": "https://easyf12.top/",
+      "avatar": "https://img.easyf12.top/images/2022/10/15/634a8b4186889.webp",
+      "screenshot": "https://img.easyf12.top/images/2022/12/19/639fcb39327a2.png",
+      "description": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。"
+    },
+    {
+      "title": "iMaeGoo’s Blog",
+      "url": "https://www.imaegoo.com",
+      "avatar": "https://www.imaegoo.com/images/avatar.jpg",
+      "screenshot": "https://image.thum.io/get/width/1024/crop/768/https://www.imaegoo.com",
+      "description": "虹墨空间站",
+      "keywords": ""
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": ""
+    },
+    {
+      "title": "MerryJingle",
+      "url": "http://blog.pengfeima.cn",
+      "avatar": "https://avatars.githubusercontent.com/u/115222128",
+      "screenshot": "https://images_github.pengfeima.cn/images/202211172254234.png",
+      "description": "快乐的铃铛"
+    },
+    {
+      "title": "是吃草莓的小白兔呀",
+      "url": "https://chrelyonly.cn",
+      "avatar": "https://blogapi.chrelyonly.cn/20210818143927.png",
+      "screenshot": "https://image.thum.io/get/width/1024/crop/768/https://chrelyonly.cn",
+      "description": "嘻嘻～",
+      "keywords": ""
+    },
+    {
+      "title": "张洪Heo",
+      "url": "https://blog.zhheo.com/",
+      "avatar": "https://npm.elemecdn.com/guli-heo/img/avatar2.png",
+      "screenshot": "https://image.thum.io/get/width/1024/crop/768/https://blog.zhheo.com/",
+      "description": "分享设计与科技生活",
+      "keywords": ""
+    },
+    {
+      "title": "贰猹的小窝",
+      "url": "https://noionion.top/",
+      "avatar": "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg",
+      "screenshot": "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/noionion.top.png",
+      "description": "用这生命中的每一秒，给自己一个不后悔的未来",
+      "keywords": ""
+    },
+    {
+      "title": "UyoAhz",
+      "url": "https://uyoahz.cn",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640",
+      "screenshot": "https://s1.ax1x.com/2022/11/11/zCGFjs.png",
+      "description": "集中精神，以气御剪"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn/",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "https://image.thum.io/get/width/1024/crop/768/https://weekdaycare.cn/",
+      "description": "星语日点灯"
+    }
+  ]
+}
